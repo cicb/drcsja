@@ -1,0 +1,241 @@
+2013-10-17 06:45:47 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /realidad_aumentada/img/waiting.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\realidad_aumentada\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-17 07:18:19 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /realidad_aumentada/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\xampp\htdocs\realidad_aumentada\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-17 07:20:27 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /realidad_aumentada/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\xampp\htdocs\realidad_aumentada\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-17 07:20:39 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /realidad_aumentada/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\xampp\htdocs\realidad_aumentada\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-17 07:21:39 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /realidad_aumentada/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\xampp\htdocs\realidad_aumentada\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-17 07:23:04 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /realidad_aumentada/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\xampp\htdocs\realidad_aumentada\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-17 07:23:42 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /realidad_aumentada/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\xampp\htdocs\realidad_aumentada\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-17 14:49:31 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /realidad_aumentada/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\xampp\htdocs\realidad_aumentada\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-17 14:50:17 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /realidad_aumentada/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\xampp\htdocs\realidad_aumentada\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-17 14:50:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /realidad_aumentada/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\xampp\htdocs\realidad_aumentada\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-17 14:50:46 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /realidad_aumentada/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\xampp\htdocs\realidad_aumentada\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-17 14:51:10 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /realidad_aumentada/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\xampp\htdocs\realidad_aumentada\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-17 14:51:20 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /realidad_aumentada/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\xampp\htdocs\realidad_aumentada\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-17 07:51:49 Error: [MissingTableException] Table aros_acos for model Permission was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'aros_acos',
+  'class' => 'Permission',
+  'ds' => 'default',
+)
+Request URL: /realidad_aumentada/users
+Stack Trace:
+#0 C:\xampp\htdocs\realidad_aumentada\cakephp2\lib\Cake\Model\Model.php(3243): Model->setSource('aros_acos')
+#1 C:\xampp\htdocs\realidad_aumentada\cakephp2\lib\Cake\Model\Model.php(1319): Model->getDataSource()
+#2 C:\xampp\htdocs\realidad_aumentada\cakephp2\lib\Cake\Model\Permission.php(89): Model->schema()
+#3 C:\xampp\htdocs\realidad_aumentada\cakephp2\lib\Cake\Controller\Component\Acl\DbAcl.php(73): Permission->check(Array, 'controllers/Use...', '*')
+#4 C:\xampp\htdocs\realidad_aumentada\cakephp2\lib\Cake\Controller\Component\AclComponent.php(109): DbAcl->check(Array, 'controllers/Use...', '*')
+#5 C:\xampp\htdocs\realidad_aumentada\cakephp2\lib\Cake\Controller\Component\Auth\ActionsAuthorize.php(40): AclComponent->check(Array, 'controllers/Use...')
+#6 C:\xampp\htdocs\realidad_aumentada\cakephp2\lib\Cake\Controller\Component\AuthComponent.php(412): ActionsAuthorize->authorize(Array, Object(CakeRequest))
+#7 C:\xampp\htdocs\realidad_aumentada\cakephp2\lib\Cake\Controller\Component\AuthComponent.php(336): AuthComponent->isAuthorized(Array)
+#8 [internal function]: AuthComponent->startup(Object(UsersController))
+#9 C:\xampp\htdocs\realidad_aumentada\cakephp2\lib\Cake\Utility\ObjectCollection.php(132): call_user_func_array(Array, Array)
+#10 [internal function]: ObjectCollection->trigger(Object(CakeEvent))
+#11 C:\xampp\htdocs\realidad_aumentada\cakephp2\lib\Cake\Event\CakeEventManager.php(248): call_user_func(Array, Object(CakeEvent))
+#12 C:\xampp\htdocs\realidad_aumentada\cakephp2\lib\Cake\Controller\Controller.php(671): CakeEventManager->dispatch(Object(CakeEvent))
+#13 C:\xampp\htdocs\realidad_aumentada\cakephp2\lib\Cake\Routing\Dispatcher.php(184): Controller->startupProcess()
+#14 C:\xampp\htdocs\realidad_aumentada\cakephp2\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#15 C:\xampp\htdocs\realidad_aumentada\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2013-10-17 14:51:51 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /realidad_aumentada/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\xampp\htdocs\realidad_aumentada\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-17 14:54:27 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /realidad_aumentada/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\xampp\htdocs\realidad_aumentada\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-17 15:08:31 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /realidad_aumentada/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\xampp\htdocs\realidad_aumentada\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-17 15:08:32 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /realidad_aumentada/img/logo.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\realidad_aumentada\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-17 15:08:32 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /realidad_aumentada/img/logo_complement.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\realidad_aumentada\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-17 15:08:32 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /realidad_aumentada/img/loading.gif
+Stack Trace:
+#0 C:\xampp\htdocs\realidad_aumentada\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-17 15:09:39 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /realidad_aumentada/js/jquery-1.10.2.min.map
+Stack Trace:
+#0 C:\xampp\htdocs\realidad_aumentada\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-17 08:49:10 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /realidad_aumentada/img/logo.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\realidad_aumentada\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-17 08:49:10 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /realidad_aumentada/img/waiting.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\realidad_aumentada\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-17 08:49:10 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /realidad_aumentada/img/loading.gif
+Stack Trace:
+#0 C:\xampp\htdocs\realidad_aumentada\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-10-17 08:49:10 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /realidad_aumentada/img/logo_complement.jpg
+Stack Trace:
+#0 C:\xampp\htdocs\realidad_aumentada\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
